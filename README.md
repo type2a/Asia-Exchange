@@ -20,6 +20,6 @@ TEAM details will be updated soon
 
 Asia Exchange trading fees are set to 0.1% as default.
 
-Staking rewards updates will be announced. www.asiax.live 
+Staking rewards updates will be announced. www.asiax.live/content/news
 
 Asia Exchange is a new Cryptocurrency exchange that will focus on spot trading of top rated digital instruments.
