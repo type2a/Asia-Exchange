@@ -14,10 +14,12 @@ We issued our token coin which is called the Asia Coin.
 ASIA will begin running natively on the Ethereum blockchain < ERC 20> and will further develop or/and adopt other competitive blockchains in order to reduce transaction fees.
 ASIA COIN is aiming to become the asian currency.
 ASIA PAY campaigns and adoption are set to begin in 2022.
-Asia Exchange will focus on Multilingual Support.
+Asia Exchange will focus on Multi Language Support.
 TEAM details will be updated soon
 
 
 Asia Exchange trading fees are set to 0.1% as default.
 
 Staking rewards updates will be announced. www.asiax.live 
+
+Asia Exchange is a new Cryptocurrency exchange that will focus on spot trading of top rated digital instruments.
