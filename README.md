@@ -16,3 +16,7 @@ ASIA COIN is aiming to become the asian currency.
 ASIA PAY campaigns and adoption are set to begin in 2022.
 Asia Exchange will focus on Multilingual Support.
 TEAM details will be updated soon
+
+
+Asia Exchange trading fees are set to 0.1% as default
+Staking rewards updates will be announced. www.asiax.live 
