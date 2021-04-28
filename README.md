@@ -15,3 +15,4 @@ ASIA will begin running natively on the Ethereum blockchain < ERC 20> and will f
 ASIA COIN is aiming to become the asian currency.
 ASIA PAY campaigns and adoption are set to begin in 2022.
 Asia Exchange will focus on Multilingual Support.
+TEAM details will be updated soon
