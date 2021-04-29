@@ -33,7 +33,7 @@ Description:
 3. ASIA Exchange reserves the right of final interpretation of the rules.
 for updates https://asia1.zendesk.com/hc/en-us/articles/900006722643-ASIA-Invitation-Rules
 
-Asia Exchange trading fees are set to 0.1% as default.
+Asia Exchange trading fees are set to 0.05% as default.
 
 Staking managers program-
 Users will be able to act as Asia Coin OTC sellers and share staking rewards.
