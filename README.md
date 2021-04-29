@@ -2,7 +2,7 @@ ASIA COIN WHITEPAPER
 # Asia-Coin 
 ERC-20 based token
 Max supply 100million ASIA.
-Asia coin is the native coin of ASiA Exchange.
+Asia coin is the native coin of Asia Exchange.
 URL   www.asiax.live
 ASIA COIN holding advantages/incentives 
 Trading fees discounts
