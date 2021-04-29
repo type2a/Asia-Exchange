@@ -35,6 +35,11 @@ for updates https://asia1.zendesk.com/hc/en-us/articles/900006722643-ASIA-Invita
 
 Asia Exchange trading fees are set to 0.1% as default.
 
+Staking managers
+Users will be able to act as Asia Coin OTC sellers and share staking rewards
+program full details will be announced. 
+https://t.me/Type2a
+
 Staking rewards updates will be announced. www.asiax.live/content/news
 
 Asia Exchange is a new Cryptocurrency exchange that will focus on spot trading of top rated digital instruments.
