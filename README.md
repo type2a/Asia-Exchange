@@ -46,7 +46,7 @@ Staking rewards updates will be announced. www.asiax.live/content/news
 Asia Exchange is a new Cryptocurrency exchange that will focus on spot trading of top rated digital instruments.
 
 Initial Exchange Offer- Asia Coin
-Price is currently set at 0.07usd
+Price was set at 0.07usd
 https://www.asiax.live/xo/
 
 Asia Exchange
