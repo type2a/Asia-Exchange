@@ -57,4 +57,6 @@ Asia Exchange
 
 AsiaX
 
+[Asia-Exchange-Whitepaper.pdf](https://github.com/AsiaX1/Asia-Exchange/files/6647520/Asia-Exchange-Whitepaper.pdf)
+
 
