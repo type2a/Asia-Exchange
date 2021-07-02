@@ -4,10 +4,6 @@ ERC-20 based token
 Max supply 100million ASIA.
 Asia Coin is the native coin of Asia Exchange.
 
-ASIA EXCHANGE CURRENT TEAM MEMBERS
-Haim Grabli - Owner.LINK:https://linkedin.com/in/haim-grabli-b399a2114
-Junji Hamada - Investor, Affiliate program manager, Consultent. LINK:https://www.linkedin.com/in/junji-hamada-339825214/
-
 URL   www.asiax.live
 ASIA COIN holding advantages/incentives 
 Trading fees discounts
@@ -58,5 +54,7 @@ Asia Exchange
 AsiaX
 
 [Asia-Exchange-Whitepaper.pdf](https://github.com/AsiaX1/Asia-Exchange/files/6647520/Asia-Exchange-Whitepaper.pdf)
+
+
 
 
