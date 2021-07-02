@@ -9,6 +9,16 @@ ASIA COIN holding advantages/incentives
 Trading fees discounts
 Staking rewards
 
+The idea of our project is to become an international spot crypto to crypto exchange providing top multilingual service 
+( Private and institutional users )
+
+-low fees - 0.05% spot trading fees at the moment. 
+
+-Stake inside the app 
+
+-loose diamonds 💎 
+We will offer our users the ability of trading loose GIA diamonds at wholesale prices combining a huge stock updated by hundreds of dealers worldwide.
+
 We issued our token coin which is called the Asia Coin.
 100,000,000 ASIA were created, MAX supply-100,000,000 and will not ever be increased.
 ASIA will begin running natively on the Ethereum blockchain < ERC 20> and will further develop or/and adopt other competitive blockchains in order to reduce transaction fees.
@@ -25,6 +35,13 @@ Invitation Rebate for ASIA agents
 - Payment: The trading fee payment will be allocated into inviters’ accounts by the end of the next working day;
 
 Description:
+ iOS and Android apps just released and you can download threw the website
+ App for iPhone
+https://apps.apple.com/jp/app/asiax-live/id1572417354 (https://www.asiax.live/j/ppBee)
+
+App for Android
+https://play.google.com/store/apps/details?id=com.asiax.broker.android
+ 
 
 1 ASIA Exchange will strictly verify duplicate accounts or fake accounts. The rebates will be canceled once founded and verified.
 
