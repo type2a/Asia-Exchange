@@ -69,8 +69,31 @@ https://www.asiax.live/xo/
 Asia Exchange
 
 AsiaX
+https://whitepaper.io/coin/asia-coin
 
 [Asia-Exchange-Whitepaper.pdf](https://github.com/AsiaX1/Asia-Exchange/files/6647520/Asia-Exchange-Whitepaper.pdf)
+
+
+
+All links lead to ASIA
+https://www.asiax.live
+
+https://coincodex.com/crypto/asia-coin/
+https://coincodex.com/exchange/asiax/
+https://coincheckup.com/convert/asia-coin/bitcoin
+
+https://whitepaper.io/coin/asia-coin
+https://facebook.com/type2asia
+https://instagram.com/asiax.live
+http://twitter.com/asiandollar
+https://t.me/asiaxs
+https://www.linkedin.com/groups/9066229
+https://asia1.zendesk.com/hc/en-us
+https://medium.com/@asiax/
+
+https://coinlib.io/coin/ASIA/
+https://coinranking.com/coin/L7vDXEN0f+asiacoin-asia
+
 
 
 
