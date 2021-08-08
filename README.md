@@ -73,6 +73,8 @@ https://whitepaper.io/coin/asia-coin
 
 [Asia-Exchange-Whitepaper.pdf](https://github.com/AsiaX1/Asia-Exchange/files/6647520/Asia-Exchange-Whitepaper.pdf)
 
+ASIA COIN WHITEPAPER    [whitepaper-asiacoin-72pi-v3007_compressed (6).pdf](https://github.com/AsiaX1/Asia-Exchange/files/6951420/whitepaper-asiacoin-72pi-v3007_compressed.6.pdf)
+
 
 
 All links lead to ASIA
@@ -95,6 +97,7 @@ https://coinlib.io/coin/ASIA/
 https://coinranking.com/coin/L7vDXEN0f+asiacoin-asia
 
 
-
+PR+ARTICLES
+https://u.today/crypto-trading-platform-utility-token-native-stablecoin-asia-exchange-explodes-onto-the-scene
 
 
