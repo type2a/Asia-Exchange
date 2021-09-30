@@ -1,3 +1,22 @@
+Important:
+
+Asia Exchange platrform is shutting down.  asiax.live current platform (web) and both apps will no longer be available.
+Users must withdrawl before OCT 6 2021 
+Asia Coin will be available for trading on IndoEx and P2PB2B exchanges.
+We are deeply sorry for the short notice
+
+In response to global regulatory requirements, and to be compliant with regulations of the various jurisdictions, Asia Exchange will  shut its services. 
+We ensure transparency and we have sufficient assets for 100% redemption of user withdrawals 
+
+
+
+
+
+
+
+
+
+
 ASIA COIN WHITEPAPER
 # Asia-Coin 
 ERC-20 based token
