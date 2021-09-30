@@ -1,4 +1,5 @@
 # Asia-Coin    
+Asia Coin official website is still under developments
 
 0xf519381791c03dd7666c142d4e49fd94d3536011
 
@@ -85,13 +86,21 @@ https://coinlib.io/coin/ASIA/
 
 
 
+
 other info:
+
 https://facebook.com/buyasiacoin
+
 https://instagram.com/asiax.live
+
 http://twitter.com/asiandollar
+
 https://t.me/asiaxs
+
 https://www.linkedin.com/groups/9066229
+
 https://asia1.zendesk.com/hc/en-us
+
 https://medium.com/@asiax/
 
 
