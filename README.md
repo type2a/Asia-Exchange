@@ -66,7 +66,7 @@ P2PB2B     https://p2pb2b.io/trade/ASIA_USDT/
 INDOEX      https://international.indoex.io/trade/ASIA_USDT
             https://international.indoex.io/trade/ASIA_BTC
 
-UNISWAP
+UNISWAP   https://nomics.com/exchanges/uniswapv2-uniswap-v2/markets/0x34b93b780a31d78040deabba6599da5b27c2e058
 
 
 0xf519381791c03dd7666c142d4e49fd94d3536011
