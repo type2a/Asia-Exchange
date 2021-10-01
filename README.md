@@ -3,6 +3,9 @@ Asia Coin official website is still under developments
 
 0xf519381791c03dd7666c142d4e49fd94d3536011
 
+Telegram channel: https://t.me/asiacoingroup 
+
+
 ERC-20 based token
 Max supply 100 (million ASIA.
 Asia Coin is the native coin of Asia Exchange.
@@ -80,6 +83,8 @@ https://coinmarketcap.com/currencies/asia-coin/
 
 https://www.coingecko.com/en/coins/asia-coin
 
+https://nomics.com/assets/asia-asia-coin
+
 https://coincheckup.com/coins/asia-coin
 
 https://www.worldcoinindex.com/coin/asia-coin
@@ -99,7 +104,6 @@ https://t.me/asiaxs
 
 https://www.linkedin.com/groups/9066229
 
-https://asia1.zendesk.com/hc/en-us
 
 
 
