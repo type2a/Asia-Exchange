@@ -80,9 +80,9 @@ https://coinmarketcap.com/currencies/asia-coin/
 
 https://www.coingecko.com/en/coins/asia-coin
 
-https://coincheckup.com/convert/asia-coin/bitcoin
+https://coincheckup.com/coins/asia-coin
 
-https://coinlib.io/coin/ASIA/
+https://www.worldcoinindex.com/coin/asia-coin
 
 
 
@@ -101,7 +101,6 @@ https://www.linkedin.com/groups/9066229
 
 https://asia1.zendesk.com/hc/en-us
 
-https://medium.com/@asiax/
 
 
 
