@@ -1,5 +1,10 @@
 # Asia-Coin    
 Asia Coin official website is still under developments
+A crypto to diamond exchange 
+Asia OTC will act as bridge between diamond buyers and selleres 
+
+View diamond search engine:
+https://39740.search.idexonline.com/web/solitaires?shape=solitaire
 
 0xf519381791c03dd7666c142d4e49fd94d3536011
 
@@ -18,12 +23,11 @@ Staking rewards
 The idea of our project is to become a Diamonds + spot crypto to crypto exchange providing top multilingual service 
 ( Private and institutional users )
 
+priorities:
 -low fees - 
-
-
 -loose diamonds 💎 
 We will offer our users the ability of trading loose GIA diamonds at wholesale prices combining a huge stock updated by hundreds of dealers worldwide.
-
+Currently accepting ASIA BTC ETH USDT ZEC TWT WAVES LTC XMR XTZ DASH and XRP.
 We issued our token coin which is called the Asia Coin.
 100,000,000 ASIA were created, MAX supply-100,000,000 and will not ever be increased.
 ASIA will begin running natively on the Ethereum blockchain < ERC 20> and will further develop or/and adopt other competitive blockchains in order to reduce transaction fees.
